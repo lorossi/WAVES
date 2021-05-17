@@ -34,8 +34,8 @@ a:visited, a:active {
 }
 
 #sketch {
-  height: 95vh;
-  width: 95vh;
+  height: 85vh;
+  width: 85vh;
 
   touch-action: none;
 }
