@@ -8,7 +8,7 @@ class Sketch extends Engine {
     this._repetitions = 2;
     this._max_ampl = this.height / 2 * 0.5;
     this._duration = 900;
-    this._recording = true;
+    this._recording = false;
   }
 
   setup() {
