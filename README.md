@@ -12,6 +12,12 @@ I started liking it, so after some more tweaks I decided I was kinda into it. I 
 
 Did I ever tell you how much I like color aberration? It makes something boring (like a sine wave) into something a little bit more interesting. At least to me.
 
+## Cool. Where do I see it?
+
+Here below as a super-low-quality GIF or on my [instagram profile](https://www.instagram.com/lorossi97/). Also, you can clone the repo and see the source file by yourself.
+
+![waves-gif](output/output.gif)
+
 ## Credits
 
 This project is distributed under Attribution 4.0 International (CC BY 4.0) license.
