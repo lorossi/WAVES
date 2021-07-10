@@ -1,36 +1,16 @@
-# Empty HTML5 Canvas Project
+# Waves
 
-I got bored of creating a new document every time.
+## What am I looking at?
 
-Contains all the needed files to create a new HTML5 page with a JS canvas inside.
+Honestly I would really be able to tell you but I can't. I was bored, one day, so I thought: what happens if you draw a lot of sines with varying colors?
 
-Just clone the repo or download the last release.
+*Nothing.* It was absolutely terrible, like a cacophonic rainbow that was having a seizure. **I'll never try something like that again.**
 
-## Cool. Do you have some documentation?
+But I didn't give up and I kept trying stuff, like changing the main color to white, adding some noise to each sine and adding a small gradient in the brightness of consecutive waves.
 
-Well, not really. But it's easy to use:
+I started liking it, so after some more tweaks I decided I was kinda into it. I finally found a way to loop the whole animation and rendered it as a video [that you can see here](https://www.instagram.com/lorossi97/). Of course I then kept on my computer for a few months (don't know why, probably I wasn't really satisfied and forgot to publish it) until about a month ago where I decided it was time to finally give the green light to this repo. Once again, obviously, it took me even more time to post it on my instagram profile. *That's anxiety, baby.*
 
-All you have to do is write your code inside the `sketch.js` file. Inside you will find 3 functions
-
-- `preload()` it's run only once. You should put there anything that you want to configure and never touch again
-- `setup()` it's run once, but I do recommend putting in there every part of your code that you might need to re-initialize
-- `draw()` it's run continuosly, at a certain set frame rate.
-
-You also have access to some internal variables:
-
-- `this.width` and `this.height` containing the size (in pixels) of the canvas
-- `this.frameCount` and `this.frameRate` containing, well, the number of rendered frames and the current framerate. You can also set the frame rate using this variable (by default the draw function runs ad 60fps).
-- `this.ctx` and `this.canvas`, with the former needed in order to draw
-
-and some internal functions:
-
-- `this.noLoop()` and `this.loop()` that will stop and restart the draw function
-- `this.calculatePressCoords()` that accepts the event from the mouse/touch screen interaction as a parameter and returns the coordinates relative to the canvas
-- `this.calculatePressCoords()` that accepts the event from the keyboad interaction ad a parameter and returns the pressed key and some infos about the type of keystroke
-- a lot of event handlers:
-  - `this.click()`,  `this.mouseup()`, `this.mousedown()`, `this.mousemove()`, regarding the mouse and the touch screen interactions
-  - `this.keydown()` regarding keyboard interactions
-  - All these functions have an optional parameter `e` that will contain the touch event (and it's needed in order to know which key has been pressed or where the mouse event happened)
+Did I ever tell you how much I like color aberration? It makes something boring (like a sine wave) into something a little bit more interesting. At least to me.
 
 ## Credits
 
