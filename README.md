@@ -8,7 +8,7 @@ Honestly I would really like to tell you that but I can't. I was bored, one day,
 
 But I didn't give up and I kept trying stuff, like changing the main color to white, adding some noise to each sine and adding a small gradient in the brightness of consecutive waves.
 
-I started liking it, so after some more tweaks I decided I was kinda into it. I finally found a way to loop the whole animation and rendered it as a video [that you can see here](https://www.instagram.com/p/CWBD29LMIyY/?utm_source=ig_web_copy_link). Of course I then kept on my computer for a few months (don't know why, probably I wasn't really satisfied and forgot to publish it) until about a month ago where I decided it was time to finally give the green light to this repo. Once again, obviously, it took me even more time to post it on my instagram profile. *That's anxiety, baby.*
+I started liking it, so after some more tweaks I decided I was kinda into it. I finally found a way to loop the whole animation and rendered it as a video [that you can see here](https://www.instagram.com/p/CWBD29LMIyY). Of course I then kept on my computer for a few months (don't know why, probably I wasn't really satisfied and forgot to publish it) until about a month ago where I decided it was time to finally give the green light to this repo. Once again, obviously, it took me even more time to post it on my instagram profile. *That's anxiety, baby.*
 
 Did I ever tell you how much I like color aberration? It makes something boring (like a sine wave) into something a little bit more interesting. At least to me.
 
