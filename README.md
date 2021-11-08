@@ -2,7 +2,7 @@
 
 ## What am I looking at?
 
-Honestly I would really be able to tell you but I can't. I was bored, one day, so I thought: what happens if you draw a lot of sines with varying colors?
+Honestly I would really like to tell you that but I can't. I was bored, one day, so I thought: what happens if you draw a lot of sines with varying colors?
 
 *Nothing.* It was absolutely terrible, like a cacophonic rainbow that was having a seizure. **I'll never try something like that again.**
 
